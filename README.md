@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
 
 
-
-![Snake animation](https://github.com/SidneyTeodoroJr/SidneyTeodoroJr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SidneyTeodoroJr/SidneyTeodoroJr/blob/output/github-contribution-grid-snake.svg)
 
 
 <h2 align="left">Hello! I am Sid Jr</h2>
