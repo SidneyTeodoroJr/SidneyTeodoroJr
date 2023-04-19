@@ -1,4 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
+
+![Snake animation](https://github.com/SidneyTeodoroJr/SidneyTeodoroJr/blob/output/github-contribution-grid-snake.svg)
+
+
 <h2 align="left">Hello! I am Sid Jr</h2>
 
 <div>
@@ -12,6 +16,9 @@
     </ul>
 </div>
 <br>
+
+
+
 
   <a href="https://github.com/SidneyTeodoroJr">
     <img src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&show_icons=true&bg_color=00000000"/>
