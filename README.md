@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
 
-
 ![snake gif](https://github.com/SidneyTeodoroJr/SidneyTeodoroJr/blob/output/github-contribution-grid-snake.svg)
-
 
 <h2 align="left">Hello! I am Sid Jr</h2>
 
@@ -16,18 +14,13 @@
       <li> 📫 sidneyteodoro2002@gmail.com</li>
     </ul>
 </div>
-<br>
-  
-  
+<br>  
   
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&show_icons=true&count_private=true&hide_border=true&title_color=2E9AFE&icon_color=10bfde&text_color=ffffff&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117" />
 </div>
-  
-  
-  
-     
+   
 <br>
 <div align="center">
   <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -47,10 +40,6 @@
  </div>
  <br>
 
-
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SidneyTeodoroJr&theme=react-dark)](https://github.com/SidneyTeodoroJr)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
-
