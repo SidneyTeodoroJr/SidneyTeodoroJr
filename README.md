@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
 <h2 align="left">Hello! I am Sid Jr</h2>
-<img align="right" src="https://files.fm/thumb_show.php?i=fqqw8fjgu" min-width="210px" max-width="221px" width="210px">  
 
 <div>
   <div>  
@@ -37,9 +36,10 @@
   <img align="center"  height="99" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>   
 </div>
 
+<br>
 <div>
-        <a href="https://www.instagram.com/sidneyteodoroaraujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/sidneyteodoroaraujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 
