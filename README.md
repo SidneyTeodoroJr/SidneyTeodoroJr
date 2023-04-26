@@ -1,9 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
 
-<h2 align="left">Hello! I am Sid Jr</h2>
-
-<div>
-    <ul align="left">
+<h2 align="center">Hello! I am Sid Jr</h2>
+<div align="justify "> 
+    <p>Me considero um desenvolvedor animado e criativo que adora progamar. Me interesso por design e usabilidade, o que o ajuda a criar projetos que são visualmente atraentes e fáceis de usar. Sou um estudante dedicado a procura de oportunidades para aprimorar minhas habilidades, seja por meio de cursos online, workshops ou projetos pessoais.
+    </p>
+</div>
+<div align="left">
+    <ul>
       <li> 📘 Graduação em andamento, Engenharia de software</li>
       <li> 🤓 Estudando Front-end e Back-end</li>
       <li> 🛠️ Desenvolvendo projetos pessoais</li>
@@ -12,7 +15,7 @@
       <li> 📫 sidneyteodoro2002@gmail.com</li>
     </ul>
 </div>
-<br>  
+<br> 
   
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&show_icons=true&count_private=true&hide_border=true&title_color=2E9AFE&icon_color=10bfde&text_color=ffffff&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
