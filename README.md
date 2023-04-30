@@ -2,7 +2,7 @@
 
 <h2 align="center">Hello! I am Sid Jr</h2>
 <div align="justify "> 
-    <p>Me considero um desenvolvedor animado e criativo que adora progamar. Me interesso por design e usabilidade, o que o ajuda a criar projetos que são visualmente atraentes e fáceis de usar. Sou um estudante dedicado a procura de oportunidades para aprimorar minhas habilidades, seja por meio de cursos online, workshops ou projetos pessoais.
+    <p>Me considero um desenvolvedor animado e criativo que adora progamar. Me interesso por design e usabilidade, o que ajuda a criar projetos que são visualmente atraentes e fáceis de usar. Sou um estudante dedicado a procura de oportunidades para aprimorar minhas habilidades, seja por meio de cursos online, workshops ou projetos pessoais.
     </p>
 </div>
 <div align="left">
