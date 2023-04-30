@@ -2,16 +2,17 @@
 
 <h2 align="center">Hello! I am Sid Jr</h2>
 <div align="justify "> 
-    <p>Me considero um desenvolvedor animado e criativo que adora progamar. Me interesso por design e usabilidade, o que ajuda a criar projetos que são visualmente atraentes e fáceis de usar. Sou um estudante dedicado a procura de oportunidades para aprimorar minhas habilidades, seja por meio de cursos online, workshops ou projetos pessoais.
+    <p>
+        I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I'm a dedicated student looking for opportunities to improve my skills, either through online courses, workshops or personal projects.
     </p>
 </div>
 <div align="left">
     <ul>
-      <li> 📘 Graduação em andamento, Engenharia de software</li>
-      <li> 🤓 Estudando Front-end e Back-end</li>
-      <li> 🛠️ Desenvolvendo projetos pessoais</li>
-      <li> 😝 Estou sempre em busca de novos aprendizados</li>
-      <li> 📫 sidneyteodoro2002@gmail.com</li>
+      <li> 📘 Graduation, Software Engineering;</li>
+      <li> 🤓 Studying Frontend and Backend;</li>
+      <li> 🛠️ Developing personal projects;</li>
+      <li> 😝 I'm always looking for new learnings;</li>
+      <li> 📫 sidneyteodoro2002@gmail.com.</li>
     </ul>
 </div>
 <br> 
