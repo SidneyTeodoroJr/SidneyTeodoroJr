@@ -11,7 +11,6 @@
       <li> 🤓 Estudando Front-end e Back-end</li>
       <li> 🛠️ Desenvolvendo projetos pessoais</li>
       <li> 😝 Estou sempre em busca de novos aprendizados</li>
-      <li> 📞 +55 (27) 996489123</li>
       <li> 📫 sidneyteodoro2002@gmail.com</li>
     </ul>
 </div>
