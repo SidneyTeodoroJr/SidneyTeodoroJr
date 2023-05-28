@@ -41,8 +41,8 @@
 <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
  <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SidneyTeodoroJr&theme=react-dark)](https://github.com/SidneyTeodoroJr)
     
-
+    
+![Snake animation](https://github.com/SidneyTeodoroJr/SidneyTeodoroJr/blob/output/github-contribution-grid-snake.svg)
+    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
