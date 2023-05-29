@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
 
 <h2 align="center">Hello! I am Sid Jr</h2>
-<div align="justify "> 
+<div align="justify"> 
+    <img align="right" width="25%" height="200px" src="avatar.png" alt="Avatar do Sidey"/> 
     <p>
         I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I'm a dedicated student looking for opportunities to improve my skills, either through online courses, workshops or personal projects.
     </p>
@@ -18,8 +19,8 @@
 <br> 
   
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&show_icons=true&count_private=true&hide_border=true&title_color=2E9AFE&icon_color=10bfde&text_color=ffffff&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&show_icons=true&count_private=true&hide_border=true&title_color=2E9AFE&icon_color=10bfde&text_color=ffffff&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 <br>
 
