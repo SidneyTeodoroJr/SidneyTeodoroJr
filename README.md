@@ -4,7 +4,7 @@
 <div align="justify"> 
     <img align="right" width="25%" height="200px" src="avatar.png" alt="Avatar do Sidey"/> 
     <p>
-        I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I'm a dedicated student looking for opportunities to improve my skills, either through online courses, workshops or personal projects.
+       I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I am dedicated and seek constant opportunities to improve my skills, whether through online courses, workshops or personal projects.
     </p>
 </div>
 <div align="left">
