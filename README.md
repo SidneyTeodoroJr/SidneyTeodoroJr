@@ -3,9 +3,13 @@
 <h2 align="center">Hello! I am Sid Jr</h2>
 <div align="justify"> 
     <img align="right" width="25%" height="200px" src="avatar.png" alt="Avatar do Sidey"/> 
-    <p>
-       I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I am dedicated and seek constant opportunities to improve my skills, whether through online courses, workshops or personal projects.
-    </p>
+<p>
+    I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I am dedicated and seek constant opportunities to improve my skills, whether through online courses, workshops or personal projects.
+</p>
+<p>
+What sets me apart from the competition is my comprehensive and personalized approach to each project. I am committed to providing technological solutions that meet each client's specific objectives.
+</p>
+
 </div>
 <div align="left">
     <ul>
@@ -14,6 +18,7 @@
       <li> 🛠️ Developing personal projects;</li>
       <li> 😝 I'm always looking for new learnings;</li>
       <li> 📫 sidneyteodoro2002@gmail.com.</li>
+      <li> <a href="https://sidney-personal-portifolio.netlify.app/">Personal portfolio>></a></li>
     </ul>
 </div>
 <br> 
@@ -23,8 +28,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 <br>
-
-<h3 align="center"><a href="https://happy-paws-signup-form.netlify.app/">Personal portfolio>></a></h3>
 <br>
 
 <div align="center">
