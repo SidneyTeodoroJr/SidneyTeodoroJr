@@ -47,10 +47,6 @@ What sets me apart from the competition is my comprehensive and personalized app
 <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" /></a>
 </div>
 </br>
-
-<div align="center">
-    <img width="100%" height="198px" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyTeodoroJr&theme=algolia&hide_border=true" />
-</div>
 </br>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
