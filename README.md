@@ -13,11 +13,11 @@ What sets me apart from the competition is my comprehensive and personalized app
 </div>
 <div align="left">
     <ul>
-      <li> 📘 Graduation, Software Engineering;</li>
-      <li> 🤓 Studying Frontend and Backend;</li>
-      <li> 🛠️ Developing personal projects;</li>
-      <li> 😝 I'm always looking for new learnings;</li>
-      <li> 📫 sidneyteodoro2002@gmail.com.</li>
+      <li> 📘 Graduation, Software Engineering</li>
+      <li> 🤓 Studying: data analysis, AI and process automation;</li>
+      <li> 🛠️ Developing personal projects</li>
+      <li> 😝 I'm always looking for new learnings</li>
+      <li> 📫 sidneyteodoro2002@gmail.com</li>
       <li> <a href="https://sidney-personal-portifolio.netlify.app/">Personal portfolio>></a></li>
     </ul>
 </div>
