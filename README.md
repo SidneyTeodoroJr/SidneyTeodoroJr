@@ -33,11 +33,17 @@ What sets me apart from the competition is my comprehensive and personalized app
 <br>
 
 <div align="center">
-<a href="https://sidney-personal-portifolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
-<a href="https://www.instagram.com/sidneyteodoroaraujo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" /></a>
+    <a href="https://sidney-personal-portifolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
+    <a href="https://www.instagram.com/sidneyteodoroaraujo"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" /></a>
 </div>
 </br>
-</br>
+
+<div align="center">
+    <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
+    </br>
+    </br>
+    <img align="justify" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
+</div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
