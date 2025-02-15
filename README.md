@@ -19,7 +19,7 @@ What sets me apart from the competition is my comprehensive and personalized app
       <li> 😝 I'm always looking for new learnings</li>
       <li> 📞 (27) 99648-9123</li>
       <li> 📫 sidneyteodoro2002@gmail.com</li>
-      <li> <a href="https://sidney-personal-portifolio.netlify.app/">Personal portfolio>></a></li>
+      <li> <a href="https://sidney-personal-portfolio.netlify.app/">Personal portfolio>></a></li>
     </ul>
 </div>
 <br>
