@@ -1,50 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/> <h2 align="center">✨ Hello! I'm <strong>Sid Jr</strong> 👋</h2> <div align="justify"> <img align="right" width="25%" height="200px" src="avatar.png" alt="Sid Avatar"/> <p> I’m a creative developer passionate about transforming ideas into intuitive, efficient and visually appealing digital solutions. I love combining **technology + design + usability** to build meaningful and easy-to-use interfaces. </p> <p> I’m constantly learning through courses, workshops, personal experiments and real projects. My mission is to grow as a developer and deliver solutions that truly align with each client's unique needs. </p> </div>
 
-<h2 align="center">Hello! I am Sid Jr</h2>
-<div align="justify"> 
-    <img align="right" width="25%" height="200px" src="avatar.png" alt="Avatar do Sidey"/> 
-<p>
-    I consider myself a lively and creative developer who loves to program. I'm interested in design and usability, which helps create projects that are visually appealing and easy to use. I am dedicated and seek constant opportunities to improve my skills, whether through online courses, workshops or personal projects.
-</p>
-<p>
-What sets me apart from the competition is my comprehensive and personalized approach to each project. I am committed to providing technological solutions that meet each client's specific objectives.
-</p>
+# 🚀 Featured Projects
 
-</div>
-<div align="left">
-    <ul>
-      <li> 📘 Graduation, Software Engineering</li>
-      <li> 🤓 Studying: data analysis, AI and process automation;</li>
-      <li> 🛠️ Developing personal projects</li>
-      <li> 😝 I'm always looking for new learnings</li>
-      <li> 📞 (27) 99648-9123</li>
-      <li> 📫 sidneyteodoro2002@gmail.com</li>
-      <li> <a href="https://sidney-personal-portfolio.netlify.app/">Personal portfolio>></a></li>
-    </ul>
-</div>
-<br>
+Project	Description	Tech Stack
+Inventory Manager	A local inventory management system built with Flet + SQLite	Flet, Python, SQLite
+InstaAutoBot	Automated Instagram interaction tool for comments & engagement	Python, Automation
+Personal Portfolio	My modern and responsive portfolio website	HTML, CSS, JS
 
-<div align="center">
-  <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
-  <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
-<br>
+Want me to add direct GitHub links? Just tell me!
 
-<div align="center">
-    <a href="https://sidney-personal-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=portifolio&logoColor=white" style="border-radius: 30px" target="_blank" /></a>
-    <a href="https://www.instagram.com/sidneyteodoroaraujo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/sidey-teodoro-a-jr/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" /></a>
-</div>
+# 🧠 Skills
+👨‍💻 Main Tech Stack
+<div align="center"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </div>
+
+# 🛠️ Additional Skills
+
+UI/UX design
+
+Process automation
+
+Rapid prototyping
+
+API development
+
+Software architecture
+
+Relational databases
+
+</br>
+</br>
 </br>
 
 <div align="center">
-    <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyTeodoroJr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats"/>
-    </br>
-    </br>
-    <img align="justify" src="https://github-readme-stats.vercel.app/api?username=SidneyTeodoroJr&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
+📞 Phone: +55 (27) 99648-9123
+
+📫 Email: sidneyteodoro2002@gmail.com
+
+🌐 Portfolio: <a href="https://sidney-personal-portfolio.netlify.app/">Click here to visit</a>
 </div>
-    
+
+<div align="center"> 
+    <a href="https://www.instagram.com/sidneyteodoroaraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/sidey-teodoro-a-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
