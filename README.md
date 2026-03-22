@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header"/>
-
 <h2 align="center">⚙️ Industrial Automation Engineer in Progress | Sid Jr</h2>
 
 ---
@@ -79,5 +77,3 @@ To obtain an internship opportunity in **Industrial Automation**, applying my te
 🌐 Portfolio: https://sidney-personal-portfolio.netlify.app/
 
 ---
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
