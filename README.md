@@ -1,46 +1,83 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=header"/> <h2 align="center">✨ Hello! I'm <strong>Sid Jr</strong> 👋</h2> <div align="justify"> <img align="right" width="25%" height="200px" src="avatar.png" alt="Sid Avatar"/> <p> I’m a creative developer passionate about transforming ideas into intuitive, efficient and visually appealing digital solutions. I love combining **technology + design + usability** to build meaningful and easy-to-use interfaces. </p> <p> I’m constantly learning through courses, workshops, personal experiments and real projects. My mission is to grow as a developer and deliver solutions that truly align with each client's unique needs. </p> </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header"/>
 
-# 🚀 Featured Projects
+<h2 align="center">⚙️ Industrial Automation Engineer in Progress | Sid Jr</h2>
 
-Project	Description	Tech Stack
-Inventory Manager	A local inventory management system built with Flet + SQLite	Flet, Python, SQLite
-InstaAutoBot	Automated Instagram interaction tool for comments & engagement	Python, Automation
-Personal Portfolio	My modern and responsive portfolio website	HTML, CSS, JS
+---
 
-Want me to add direct GitHub links? Just tell me!
+## 🏭 About Me
 
-# 🧠 Skills
-👨‍💻 Main Tech Stack
-<div align="center"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </div>
+I am a Software Engineering student with strong practical experience in **industrial environments, electrical systems, and automation processes**.
 
-# 🛠️ Additional Skills
+My background combines **field work + electrical engineering + software development**, allowing me to understand and build solutions from the physical layer (equipment) to the logical layer (systems and automation).
 
-UI/UX design
+🔧 Experience includes:
+- Electrical panel assembly and wiring  
+- Interpretation of electrical diagrams and schematics  
+- Preventive and corrective industrial maintenance  
+- Installation of photovoltaic systems  
+- Industrial equipment testing and adjustments  
 
-Process automation
+💡 Currently focused on:
+- Industrial automation systems  
+- Process control and optimization  
+- Python for automation and integration  
+- Development of tools for industrial environments  
 
-Rapid prototyping
+---
 
-API development
+## ⚡ Automation Focus Areas
 
-Software architecture
+- Industrial Automation Systems  
+- Electrical Command and Control Circuits  
+- PLC Logic (in development)  
+- Process Automation  
+- System Integration (Software + Hardware)  
+- Industrial Maintenance  
 
-Relational databases
+---
 
-</br>
-</br>
-</br>
+
+
+## 🧠 Technical Skills
+
+### ⚡ Electrical & Industrial
+- Electrical installations  
+- Industrial maintenance  
+- Electrical diagrams interpretation  
+- Photovoltaic systems  
+
+### 💻 Software & Automation
+- Python (Automation & Scripting)  
+- SQLite (Local databases)  
+- System integration  
+- Process optimization  
+
+---
+
+## 🛠️ Tools & Technologies
 
 <div align="center">
-📞 Phone: +55 (27) 99648-9123
-
-📫 Email: sidneyteodoro2002@gmail.com
-
-🌐 Portfolio: <a href="https://sidney-personal-portfolio.netlify.app/">Click here to visit</a>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
 
-<div align="center"> 
-    <a href="https://www.instagram.com/sidneyteodoroaraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/sidey-teodoro-a-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-</div>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=084478&height=120&section=footer"/>
+## 📈 Current Goal
+
+To obtain an internship opportunity in **Industrial Automation**, applying my technical knowledge and continuing to develop skills in control systems, automation, and industrial technologies.
+
+---
+
+## 📫 Contact
+
+📧 Email: sidneyteodoroaraujojunior2002@gmail.com  
+📱 Phone: +55 (27) 99648-9123  
+
+🌐 Portfolio: https://sidney-personal-portfolio.netlify.app/
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer"/>
