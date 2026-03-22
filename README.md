@@ -27,7 +27,7 @@ My background combines **field work + electrical engineering + software developm
 
 - Industrial Automation Systems  
 - Electrical Command and Control Circuits  
-- PLC Logic (in development)  
+- PLC Logic 
 - Process Automation  
 - System Integration (Software + Hardware)  
 - Industrial Maintenance  
@@ -44,24 +44,7 @@ My background combines **field work + electrical engineering + software developm
 - Electrical diagrams interpretation  
 - Photovoltaic systems  
 
-### 💻 Software & Automation
-- Python (Automation & Scripting)  
-- SQLite (Local databases)  
-- System integration  
-- Process optimization  
 
----
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</div>
-
----
 
 ## 📈 Current Goal
 
