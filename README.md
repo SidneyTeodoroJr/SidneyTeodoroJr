@@ -1,4 +1,4 @@
-<h2 align="center">⚙️ Industrial Automation Engineer in Progress | Sid Jr</h2>
+<h2 align="center">⚙️ Software Engineer in Training | Sid Jr</h2>
 
 ---
 
@@ -43,12 +43,6 @@ My background combines **field work + electrical engineering + software developm
 - Industrial maintenance  
 - Electrical diagrams interpretation  
 - Photovoltaic systems  
-
-
-
-## 📈 Current Goal
-
-To obtain an internship opportunity in **Industrial Automation**, applying my technical knowledge and continuing to develop skills in control systems, automation, and industrial technologies.
 
 ---
 
